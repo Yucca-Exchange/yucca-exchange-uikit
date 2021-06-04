@@ -1,6 +1,6 @@
 {
   "name": "@yuccaexchange/uikit",
-  "version": "0.10.43",
+  "version": "0.10.44",
   "description": "Set of UI components for yucca exchange projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
