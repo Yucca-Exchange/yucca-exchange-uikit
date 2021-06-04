@@ -37,7 +37,7 @@ const connectors: Config[] = [
   {
     title: "Binance Chain Wallet",
     icon: BinanceChain,
-    connectorId: ConnectorNames.BSC,
+    connectorId: ConnectorNames.Avalanche,
   },
   {
     title: "ONTO Wallet",
